@@ -1,0 +1,6 @@
+2022-02-09 12:02:822 INFO  CovidCasesSteps :33 - Sending GET request with country as query parameter: UK
+2022-02-09 12:02:700 INFO  CovidCasesSteps :42 - User should be able to see the total COVID cases for UK is: 17,932,803
+2022-02-09 12:02:788 INFO  CovidCasesSteps :51 - User verifies that the country name in the received response is :UK
+2022-02-09 12:02:704 INFO  CovidCasesSteps :33 - Sending GET request with country as query parameter: UK
+2022-02-09 12:02:526 INFO  CovidCasesSteps :42 - User should be able to see the total COVID cases for UK is: 17,932,803
+2022-02-09 12:02:605 INFO  CovidCasesSteps :51 - User verifies that the country name in the received response is :UK
